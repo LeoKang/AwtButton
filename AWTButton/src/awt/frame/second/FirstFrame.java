@@ -13,12 +13,12 @@ public class FirstFrame implements ActionListener {
 		f1 = new Frame("1st Frame");
 		f1.setLayout(null);
 		f1.setSize(400, 300);
-		f1.setLocation(2000, 100);
+		f1.setLocation(1000, 100);
 		
 		f2 = new Frame("2nd Frame");
 		f2.setLayout(null);
 		f2.setSize(400, 300);
-		f2.setLocation(2600, 100);
+		f2.setLocation(1600, 100);
 
 		b1 = new Button("Button");
 		b1.setSize(55, 60);
